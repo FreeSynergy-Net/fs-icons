@@ -2,7 +2,8 @@
 # The one measure for this data repo; .github/workflows/check.yml runs exactly the same.
 #   scripts/gates.sh <repo root>
 # 1. unit tests of the scripts  2. icons.toml / index.theme / licences consistent  3. every SVG in sets/ safe.
-# Legacy directories (homarrlabs, We10X, FreeSynergy, cursor-sets) are NOT gated yet: see docs/PLAN-revive.md.
+# check_svg also covers FreeSynergy-apps and FreeSynergy-playful. Legacy directories (homarrlabs, We10X, FreeSynergy,
+# cursor-sets) are NOT gated yet: see docs/PLAN-revive.md.
 set -euo pipefail
 root="$(cd "$1" && pwd)"
 cd "$root"

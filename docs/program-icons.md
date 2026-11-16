@@ -98,6 +98,14 @@ Family rules / Familienregeln: 128x128 viewBox, tile 112 px with radius 10 (abou
 - EN: Servers (catalogue kind, no programme; shared by kanidm, tuwunel, zentinel). Dark slate tile (#475569 to #0F172A); white server rack with two rails, three units with status dots, vents and handle. Symbolic: rack.
 - DE: Server (Katalog-Art, kein Programm; gemeinsam für kanidm, tuwunel, zentinel). Dunkle Schiefer-Kachel; weißes Server-Rack mit zwei Schienen, drei Einheiten mit Statuspunkten, Lüftung und Griff. Symbolic: Rack.
 
+## Frontend badge
+
+A frontend variant of a programme icon (`<id>-frontend.svg`) carries a small dark circle with a white window glyph and a white ring in one corner (about 30 % of the tile). The corner is set per icon with `badge_corner` in `icons.toml`: `br` (bottom right) is the default, exceptions are `tr` and `bl`, chosen so the badge does not cover the main motif. If the white ring has less than 3:1 contrast against the tile colour under the badge, a thin dark outer ring (#0F172A, 1.25 px) is added automatically. Symbolic icons get no badge.
+
+## Frontend-Abzeichen
+
+Die Frontend-Fassung eines Programm-Icons (`<id>-frontend.svg`) trägt in einer Ecke einen kleinen dunklen Kreis mit weißem Fensterzeichen und weißem Ring (etwa 30 % der Kachel). Die Ecke steht je Icon als `badge_corner` in `icons.toml`: `br` (unten rechts) ist Standard, Ausnahmen sind `tr` und `bl`, so gewählt, dass das Abzeichen das Hauptmotiv nicht verdeckt. Liegt der Kontrast des weißen Rings zur Kachelfarbe unter dem Abzeichen unter 3:1, kommt automatisch ein dünner dunkler Außenring (#0F172A, 1,25 px) dazu. Symbolic-Icons bekommen kein Abzeichen.
+
 ## Colour table / Farbtabelle
 
 Tile gradient (top-left start to bottom-right end) and contrast of the white motif against both ends (WCAG relative luminance; the start end is the light side and sits under the soft highlight, ratio below 3 is carried by the flat white motif shapes and tinted detail, not by text). Kachelverlauf (Start oben links, Ende unten rechts) und Kontrast des weißen Motivs gegen beide Enden.

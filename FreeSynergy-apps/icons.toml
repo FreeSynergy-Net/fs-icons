@@ -22,6 +22,7 @@ purpose_de = "Programm-Icon von fs-packages."
 used_in = ["fs-packages"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -35,6 +36,7 @@ purpose_de = "Programm-Icon von fs-tasks."
 used_in = ["fs-tasks"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -48,6 +50,7 @@ purpose_de = "Programm-Icon von fs-people."
 used_in = ["fs-people"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -87,6 +90,7 @@ purpose_de = "Facetten-Icon: die Wiki-Ansicht von fs-texts (alte fs-wiki-Kachel)
 used_in = ["fs-texts"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -113,6 +117,7 @@ purpose_de = "Programm-Icon von fs-texts (umbenannt von fs-wiki; die alte Kachel
 used_in = ["fs-texts"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -126,6 +131,7 @@ purpose_de = "Programm-Icon von fs-draw."
 used_in = ["fs-draw"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -165,6 +171,7 @@ purpose_de = "Programm-Icon von fs-resources."
 used_in = ["fs-resources"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -204,6 +211,7 @@ purpose_de = "Programm-Icon von fs-groups."
 used_in = ["fs-groups"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -217,6 +225,7 @@ purpose_de = "Programm-Icon von fs-registry."
 used_in = ["fs-registry"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
@@ -243,6 +252,7 @@ purpose_de = "Programm-Icon von fs-workflows."
 used_in = ["fs-workflows"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "bl"
 status = "draft-review"
 
 [[icon]]
@@ -295,6 +305,7 @@ purpose_de = "Katalog-Icon für Themen (Art Theme, kein Programm)."
 used_in = ["theme"]
 sizes = ["scalable"]
 variants = ["symbolic"]
+badge_corner = "tr"
 status = "draft-review"
 
 [[icon]]
