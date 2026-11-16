@@ -1,0 +1,47 @@
+<!-- FreeSynergy catalog icon: server. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- server rack: two rails with screws, three units with status dot, vents, handle -->
+  <rect x="17" y="18" width="9" height="92" rx="2" fill="#FFFFFF"/>
+  <rect x="102" y="18" width="9" height="92" rx="2" fill="#FFFFFF"/>
+  <circle cx="21.500" cy="26" r="2.200" fill="#0F172A"/>
+  <circle cx="106.500" cy="26" r="2.200" fill="#0F172A"/>
+  <circle cx="21.500" cy="60" r="2.200" fill="#0F172A"/>
+  <circle cx="106.500" cy="60" r="2.200" fill="#0F172A"/>
+  <circle cx="21.500" cy="94" r="2.200" fill="#0F172A"/>
+  <circle cx="106.500" cy="94" r="2.200" fill="#0F172A"/>
+  <rect x="30" y="22" width="68" height="28" rx="3" fill="#FFFFFF"/>
+  <circle cx="41" cy="36" r="4" fill="#0F172A"/>
+  <rect x="52" y="29" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="57.2" y="29" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="62.4" y="29" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="67.6" y="29" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="72.8" y="29" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="78" y="29" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="87" y="33" width="7" height="6" rx="1.500" fill="#0F172A"/>
+  <rect x="30" y="50" width="68" height="28" rx="3" fill="#FFFFFF"/>
+  <circle cx="41" cy="64" r="4" fill="#0F172A"/>
+  <rect x="52" y="56" width="30" height="7" rx="1.500" fill="#D7DADE"/>
+  <rect x="52" y="65" width="30" height="7" rx="1.500" fill="#D7DADE"/>
+  <rect x="87" y="61" width="7" height="6" rx="1.500" fill="#0F172A"/>
+  <rect x="30" y="78" width="68" height="28" rx="3" fill="#FFFFFF"/>
+  <circle cx="41" cy="92" r="4" fill="#0F172A"/>
+  <rect x="52" y="85" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="57.2" y="85" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="62.4" y="85" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="67.6" y="85" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="72.8" y="85" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="78" y="85" width="2.600" height="14" rx="1" fill="#D7DADE"/>
+  <rect x="87" y="89" width="7" height="6" rx="1.500" fill="#0F172A"/>
+</svg>

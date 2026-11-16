@@ -12,14 +12,14 @@ license_files = ["LICENSE-MIT"]
 origin = "Drawn by the FreeSynergy project; nothing traced from another set. Form from the former freesynergy-serious draft, colours from freesynergy-playful."
 
 [[icon]]
-name = "fs-store"
-file = "apps/fs-store.svg"
+name = "fs-packages"
+file = "apps/fs-packages.svg"
 context = "apps"
 naming = "own"
 meaning = "A crate with lid and tape and an arrow dropping in: the package store."
-purpose = "Programme icon of fs-store."
-purpose_de = "Programm-Icon von fs-store."
-used_in = ["fs-store"]
+purpose = "Programme icon of fs-packages."
+purpose_de = "Programm-Icon von fs-packages."
+used_in = ["fs-packages"]
 sizes = ["scalable"]
 variants = ["symbolic"]
 status = "draft-review"
@@ -51,14 +51,14 @@ variants = ["symbolic"]
 status = "draft-review"
 
 [[icon]]
-name = "fs-calendar"
-file = "apps/fs-calendar.svg"
+name = "fs-calendars"
+file = "apps/fs-calendars.svg"
 context = "apps"
 naming = "own"
 meaning = "A wall calendar page with binder rings, a day grid and a marked day."
-purpose = "Programme icon of fs-calendar."
-purpose_de = "Programm-Icon von fs-calendar."
-used_in = ["fs-calendar"]
+purpose = "Programme icon of fs-calendars."
+purpose_de = "Programm-Icon von fs-calendars."
+used_in = ["fs-calendars"]
 sizes = ["scalable"]
 variants = ["symbolic"]
 status = "draft-review"
@@ -77,14 +77,14 @@ variants = ["symbolic"]
 status = "draft-review"
 
 [[icon]]
-name = "fs-wiki"
-file = "apps/fs-wiki.svg"
+name = "facet-wiki"
+file = "apps/facet-wiki.svg"
 context = "apps"
 naming = "own"
-meaning = "A page with a folded corner, heading, text lines and a bookmark ribbon."
-purpose = "Programme icon of fs-wiki."
-purpose_de = "Programm-Icon von fs-wiki."
-used_in = ["fs-wiki"]
+meaning = "A page with a folded corner, heading, text lines and a bookmark ribbon (facet of fs-texts, ADR 0087 rule 1)."
+purpose = "Facet icon: the wiki view of fs-texts (the old fs-wiki tile). Not a programme icon."
+purpose_de = "Facetten-Icon: die Wiki-Ansicht von fs-texts (alte fs-wiki-Kachel). Kein Programm-Icon."
+used_in = ["fs-texts"]
 sizes = ["scalable"]
 variants = ["symbolic"]
 status = "draft-review"
@@ -98,6 +98,214 @@ meaning = "A folded three-panel map with a location pin."
 purpose = "Programme icon of fs-maps."
 purpose_de = "Programm-Icon von fs-maps."
 used_in = ["fs-maps"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-texts"
+file = "apps/fs-texts.svg"
+context = "apps"
+naming = "own"
+meaning = "A page with folded corner, heading and text lines in front of a second page, with a pencil: texts."
+purpose = "Programme icon of fs-texts (renamed from fs-wiki; the old tile stays as facet-wiki)."
+purpose_de = "Programm-Icon von fs-texts (umbenannt von fs-wiki; die alte Kachel bleibt als facet-wiki)."
+used_in = ["fs-texts"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-draw"
+file = "apps/fs-draw.svg"
+context = "apps"
+naming = "own"
+meaning = "A drawing board on a stand with a freehand stroke and two shapes."
+purpose = "Programme icon of fs-draw."
+purpose_de = "Programm-Icon von fs-draw."
+used_in = ["fs-draw"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-messages"
+file = "apps/fs-messages.svg"
+context = "apps"
+naming = "own"
+meaning = "Two overlapping speech bubbles, the front one with three dots."
+purpose = "Programme icon of fs-messages."
+purpose_de = "Programm-Icon von fs-messages."
+used_in = ["fs-messages"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-forms"
+file = "apps/fs-forms.svg"
+context = "apps"
+naming = "own"
+meaning = "A sheet with a checkbox, a radio button, a text input and a submit button."
+purpose = "Programme icon of fs-forms."
+purpose_de = "Programm-Icon von fs-forms."
+used_in = ["fs-forms"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-resources"
+file = "apps/fs-resources.svg"
+context = "apps"
+naming = "own"
+meaning = "Three isometric crates in a pile: goods and resources."
+purpose = "Programme icon of fs-resources."
+purpose_de = "Programm-Icon von fs-resources."
+used_in = ["fs-resources"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-activities"
+file = "apps/fs-activities.svg"
+context = "apps"
+naming = "own"
+meaning = "A vertical timeline with three entries."
+purpose = "Programme icon of fs-activities."
+purpose_de = "Programm-Icon von fs-activities."
+used_in = ["fs-activities"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-broadcast"
+file = "apps/fs-broadcast.svg"
+context = "apps"
+naming = "own"
+meaning = "A transmitter mast with radio waves on both sides."
+purpose = "Programme icon of fs-broadcast."
+purpose_de = "Programm-Icon von fs-broadcast."
+used_in = ["fs-broadcast"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-groups"
+file = "apps/fs-groups.svg"
+context = "apps"
+naming = "own"
+meaning = "A group with two sub-groups below it, members as dots: group tree."
+purpose = "Programme icon of fs-groups."
+purpose_de = "Programm-Icon von fs-groups."
+used_in = ["fs-groups"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-registry"
+file = "apps/fs-registry.svg"
+context = "apps"
+naming = "own"
+meaning = "A directory of running services, each with a status dot."
+purpose = "Programme icon of fs-registry."
+purpose_de = "Programm-Icon von fs-registry."
+used_in = ["fs-registry"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-data"
+file = "apps/fs-data.svg"
+context = "apps"
+naming = "own"
+meaning = "A table with header row and cells."
+purpose = "Programme icon of fs-data."
+purpose_de = "Programm-Icon von fs-data."
+used_in = ["fs-data"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-workflows"
+file = "apps/fs-workflows.svg"
+context = "apps"
+naming = "own"
+meaning = "A start, a decision and two outcomes: a workflow."
+purpose = "Programme icon of fs-workflows."
+purpose_de = "Programm-Icon von fs-workflows."
+used_in = ["fs-workflows"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-decisions"
+file = "apps/fs-decisions.svg"
+context = "apps"
+naming = "own"
+meaning = "A ballot paper going into a box: voting and deciding."
+purpose = "Programme icon of fs-decisions."
+purpose_de = "Programm-Icon von fs-decisions."
+used_in = ["fs-decisions"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-paint"
+file = "apps/fs-paint.svg"
+context = "apps"
+naming = "own"
+meaning = "A painter's palette with thumb hole and colour dabs."
+purpose = "Programme icon of fs-paint."
+purpose_de = "Programm-Icon von fs-paint."
+used_in = ["fs-paint"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-font"
+file = "apps/fs-font.svg"
+context = "apps"
+naming = "own"
+meaning = "A capital letter on a baseline: a typeface."
+purpose = "Catalogue icon for fonts (kind font, not a programme)."
+purpose_de = "Katalog-Icon für Schriften (Art Schrift, kein Programm)."
+used_in = ["font"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "fs-theme"
+file = "apps/fs-theme.svg"
+context = "apps"
+naming = "own"
+meaning = "A light/dark split disc with colour swatches: a theme."
+purpose = "Catalogue icon for themes (kind theme, not a programme)."
+purpose_de = "Katalog-Icon für Themen (Art Theme, kein Programm)."
+used_in = ["theme"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
+
+[[icon]]
+name = "server"
+file = "apps/server.svg"
+context = "apps"
+naming = "own"
+meaning = "A server rack: two rails with screws, three units with status dots, vents and a handle."
+purpose = "Catalogue icon for servers (kind server; shared by kanidm, tuwunel, zentinel)."
+purpose_de = "Katalog-Icon für Server (Art Server; gemeinsam für kanidm, tuwunel, zentinel)."
+used_in = ["server"]
 sizes = ["scalable"]
 variants = ["symbolic"]
 status = "draft-review"

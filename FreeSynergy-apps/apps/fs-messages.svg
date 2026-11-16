@@ -1,0 +1,20 @@
+<!-- FreeSynergy program icon: fs-messages. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#115E59"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- back bubble -->
+  <path d="M46 20h50a6 6 0 0 1 6 6v28a6 6 0 0 1-6 6H88l8 12-18-12H46a6 6 0 0 1-6-6V26a6 6 0 0 1 6-6z" fill="#CBEFEB"/>
+  <!-- front bubble -->
+  <path d="M30 44h52a6 6 0 0 1 6 6v32a6 6 0 0 1-6 6H58l-18 14 4-14h-14a6 6 0 0 1-6-6V50a6 6 0 0 1 6-6z" fill="#FFFFFF"/>
+  <circle cx="42" cy="66" r="4.500" fill="#115E59"/><circle cx="56" cy="66" r="4.500" fill="#115E59"/><circle cx="70" cy="66" r="4.500" fill="#115E59"/>
+</svg>

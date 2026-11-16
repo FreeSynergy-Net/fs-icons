@@ -1,0 +1,23 @@
+<!-- FreeSynergy program icon: fs-draw. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#5B21B6"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- board -->
+  <rect x="22" y="26" width="84" height="66" rx="3" fill="#FFFFFF"/>
+  <!-- freehand stroke, shapes -->
+  <path d="M32 74c10-26 20-26 28-8s16 14 26-12" fill="none" stroke="#5B21B6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="86" cy="42" r="8" fill="#E5DBFD"/>
+  <rect x="32" y="36" width="16" height="14" rx="2" fill="#E5DBFD"/>
+  <!-- stand -->
+  <path d="M46 92l-8 16M82 92l8 16" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+</svg>

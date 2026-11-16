@@ -1,0 +1,18 @@
+<!-- FreeSynergy program icon: fs-font. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#78716C"/>
+      <stop offset="1" stop-color="#292524"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- capital letter and baseline -->
+  <path fill-rule="evenodd" d="M34 98L58 22h12l24 76H79l-4-14H53l-4 14zM57 70h14L64 44z" fill="#FFFFFF"/>
+  <rect x="24" y="104" width="80" height="4" rx="1" fill="#E1E0DF"/>
+</svg>

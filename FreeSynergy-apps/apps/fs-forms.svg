@@ -1,0 +1,27 @@
+<!-- FreeSynergy program icon: fs-forms. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#65A30D"/>
+      <stop offset="1" stop-color="#365314"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- sheet -->
+  <rect x="26" y="18" width="76" height="92" rx="3" fill="#FFFFFF"/>
+  <!-- checkbox, radio, text input, submit -->
+  <rect x="35" y="30" width="12" height="12" rx="2" fill="none" stroke="#365314" stroke-width="3"/>
+  <path d="M38 36l3 3 5-7" fill="none" stroke="#365314" stroke-width="3"/>
+  <rect x="54" y="33" width="38" height="5" rx="1" fill="#DDEBCA"/>
+  <circle cx="41" cy="58" r="6" fill="none" stroke="#365314" stroke-width="3"/>
+  <circle cx="41" cy="58" r="2.500" fill="#365314"/>
+  <rect x="54" y="55" width="30" height="5" rx="1" fill="#DDEBCA"/>
+  <rect x="35" y="72" width="58" height="12" rx="2" fill="#DDEBCA"/>
+  <rect x="35" y="72" width="2" height="12" fill="#365314"/>
+  <rect x="35" y="93" width="30" height="10" rx="2" fill="#365314"/>
+</svg>

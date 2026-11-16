@@ -1,0 +1,23 @@
+<!-- FreeSynergy program icon: fs-broadcast. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- mast and waves -->
+  <path d="M64 56l-18 52h12l6-16 6 16h12z" fill="#FFFFFF"/>
+  <rect x="50" y="86" width="28" height="5" fill="#075985" opacity="0.55"/>
+  <circle cx="64" cy="48" r="8" fill="#FFFFFF"/>
+  <path d="M78.1 31.1A22 22 0 0 1 78.1 64.9" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M49.9 64.9A22 22 0 0 1 49.9 31.1" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M87.1 20.4A36 36 0 0 1 87.1 75.6" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M40.9 75.6A36 36 0 0 1 40.9 20.4" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+</svg>

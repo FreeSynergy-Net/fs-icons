@@ -1,0 +1,24 @@
+<!-- FreeSynergy program icon: fs-activities. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#D946EF"/>
+      <stop offset="1" stop-color="#86198F"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- timeline -->
+  <rect x="31" y="22" width="4" height="84" rx="2" fill="#FFFFFF"/>
+  <circle cx="33" cy="32" r="7" fill="#FFFFFF"/><circle cx="33" cy="64" r="7" fill="#FFFFFF"/><circle cx="33" cy="96" r="7" fill="#FFFFFF"/>
+  <rect x="48" y="22" width="60" height="20" rx="3" fill="#FFFFFF"/>
+  <rect x="48" y="54" width="60" height="20" rx="3" fill="#FFFFFF"/>
+  <rect x="48" y="86" width="60" height="20" rx="3" fill="#FFFFFF"/>
+  <rect x="54" y="29" width="30" height="5" rx="1" fill="#86198F"/><rect x="54" y="36" width="44" height="3" rx="1" fill="#F7D6FB"/>
+  <rect x="54" y="61" width="24" height="5" rx="1" fill="#86198F"/><rect x="54" y="68" width="40" height="3" rx="1" fill="#F7D6FB"/>
+  <rect x="54" y="93" width="34" height="5" rx="1" fill="#86198F"/><rect x="54" y="100" width="46" height="3" rx="1" fill="#F7D6FB"/>
+</svg>

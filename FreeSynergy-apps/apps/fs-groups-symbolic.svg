@@ -1,0 +1,4 @@
+<!-- FreeSynergy program icon (symbolic): fs-groups. Own drawing (mixed set). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+  <rect x="5.500" y="1" width="5" height="3.500" rx=".5"/><path d="M7.500 4.500h1V6h4v2.500h-1V7H8.500v1.500h-1V7H4.500v1.500h-1V6h4z"/><rect x="1.500" y="9" width="5" height="4.500" rx=".5"/><rect x="9.500" y="9" width="5" height="4.500" rx=".5"/>
+</svg>

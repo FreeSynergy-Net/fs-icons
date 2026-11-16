@@ -1,0 +1,29 @@
+<!-- FreeSynergy program icon: fs-registry. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#64748B"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- directory of running services with status -->
+  <rect x="20" y="22" width="88" height="24" rx="3" fill="#FFFFFF"/>
+  <circle cx="34" cy="34" r="5" fill="#34D399"/>
+  <rect x="46" y="28" width="36" height="5" rx="1" fill="#1E293B"/>
+  <rect x="46" y="36" width="52" height="4" rx="1" fill="#DDE0E5"/>
+  <rect x="20" y="50" width="88" height="24" rx="3" fill="#FFFFFF"/>
+  <circle cx="34" cy="62" r="5" fill="#34D399"/>
+  <rect x="46" y="56" width="36" height="5" rx="1" fill="#1E293B"/>
+  <rect x="46" y="64" width="52" height="4" rx="1" fill="#DDE0E5"/>
+  <rect x="20" y="78" width="88" height="24" rx="3" fill="#FFFFFF"/>
+  <circle cx="34" cy="90" r="5" fill="#FBBF24"/>
+  <rect x="46" y="84" width="36" height="5" rx="1" fill="#1E293B"/>
+  <rect x="46" y="92" width="52" height="4" rx="1" fill="#DDE0E5"/>
+  <path d="M64 102v6M44 108h40" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+</svg>

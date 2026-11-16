@@ -1,0 +1,4 @@
+<!-- FreeSynergy catalog icon (symbolic): server. Own drawing. SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+  <path d="M1 1.500h1.200v13H1zM13.800 1.500H15v13h-1.200z"/><path fill-rule="evenodd" d="M3.500 2h9v3.200h-9zM4.500 3.100v1h1v-1zM7 3h.8v1.200H7zM8.600 3h.8v1.200h-.8zM10.200 3h.8v1.200h-.8z"/><path fill-rule="evenodd" d="M3.500 6.400h9v3.200h-9zM4.500 7.500v1h1v-1zM7 7.400h4v1.800H7z"/><path fill-rule="evenodd" d="M3.500 10.800h9V14h-9zM4.500 11.900v1h1v-1zM7 11.800h.8V13H7zM8.600 11.800h.8V13h-.8zM10.200 11.800h.8V13h-.8z"/>
+</svg>

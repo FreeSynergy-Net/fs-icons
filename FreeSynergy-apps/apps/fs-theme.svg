@@ -1,0 +1,22 @@
+<!-- FreeSynergy program icon: fs-theme. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- light/dark split disc and swatches -->
+  <circle cx="64" cy="50" r="30" fill="#FFFFFF"/>
+  <path d="M64 20a30 30 0 0 1 0 60z" fill="#1E3A8A"/>
+  <circle cx="64" cy="50" r="30" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="26" y="90" width="22" height="16" rx="3" fill="#FFFFFF"/>
+  <rect x="53" y="90" width="22" height="16" rx="3" fill="#CFDDFB"/>
+  <rect x="80" y="90" width="22" height="16" rx="3" fill="#1E3A8A"/>
+</svg>

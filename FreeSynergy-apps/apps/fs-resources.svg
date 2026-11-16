@@ -1,0 +1,25 @@
+<!-- FreeSynergy program icon: fs-resources. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#C2693E"/>
+      <stop offset="1" stop-color="#7C2D12"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- three crates, isometric pile -->
+  <polygon points="40,61 60,72 40,83 20,72" fill="#FFFFFF"/>
+  <polygon points="20,72 40,83 40,105 20,94" fill="#DDAC95"/>
+  <polygon points="60,72 40,83 40,105 60,94" fill="#F2DED5"/>
+  <polygon points="88,61 108,72 88,83 68,72" fill="#FFFFFF"/>
+  <polygon points="68,72 88,83 88,105 68,94" fill="#DDAC95"/>
+  <polygon points="108,72 88,83 88,105 108,94" fill="#F2DED5"/>
+  <polygon points="64,35 84,46 64,57 44,46" fill="#FFFFFF"/>
+  <polygon points="44,46 64,57 64,79 44,68" fill="#DDAC95"/>
+  <polygon points="84,46 64,57 64,79 84,68" fill="#F2DED5"/>
+</svg>

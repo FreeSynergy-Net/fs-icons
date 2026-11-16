@@ -1,0 +1,22 @@
+<!-- FreeSynergy program icon: fs-decisions. Own drawing (mixed set: serious form, playful colours). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#6B21A8"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- ballot paper going into a box -->
+  <rect x="42" y="18" width="44" height="52" rx="3" fill="#ECDAFD"/>
+  <path d="M52 42l8 8 16-20" fill="none" stroke="#6B21A8" stroke-width="6" stroke-linecap="square"/>
+  <rect x="20" y="62" width="88" height="46" rx="3" fill="#FFFFFF"/>
+  <rect x="40" y="62" width="48" height="8" fill="#6B21A8"/>
+  <rect x="32" y="82" width="64" height="5" rx="1" fill="#ECDAFD"/>
+  <rect x="32" y="92" width="40" height="5" rx="1" fill="#ECDAFD"/>
+</svg>
