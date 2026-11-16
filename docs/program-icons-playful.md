@@ -6,6 +6,10 @@ Family rules / Familienregeln: 128x128 viewBox, rounded tile (112 px, radius 28)
 
 Revision 2 / Überarbeitung 2: symbolic store is now a plain crate (lid, body, handle slot; no arrow); symbolic wiki carries the bookmark notch like the colour icon; symbolic files has a larger tab and a gap between tab part and front; calendar and tasks symbolics have larger cells/check strokes (min. 1.3 px on the 16 grid). Colour tasks and wiki glyphs enlarged (sheet 80x88 / page 80x90 in the 112 tile, about 55 to 60 % of the tile) so main glyph density matches calendar and maps; colours unchanged. Symbolic icons keep `currentColor`; previews substitute the theme foreground (light #2e3436, dark #eeeeec) at render time only.
 
+
+## Frozen legacy state / Eingefrorener Altstand
+- EN: This playful set is frozen at the old programme names. Renamed since: `fs-store` is now `fs-packages`, `fs-calendar` is now `fs-calendars`, `fs-wiki` is now `fs-texts` (facet `facet-wiki`). Files, `icons.toml` and the sections below still use the old names; the Playful set will follow in a later run (file renames).
+- DE: Dieses Playful-Set ist auf den alten Programmnamen eingefroren. Inzwischen umbenannt: `fs-store` heißt jetzt `fs-packages`, `fs-calendar` heißt `fs-calendars`, `fs-wiki` heißt `fs-texts` (Facette `facet-wiki`). Dateien, `icons.toml` und die Abschnitte unten nennen noch die alten Namen; das Playful-Set zieht in einem späteren Lauf nach (Dateiumbenennung).
 ## fs-store
 - EN: Package store. Amber/gold tile; a white parcel box (lid, cream body, golden tape, handle slot) with an arrow dropping in. Use colour at 48 px and larger; `-symbolic` (plain crate, no arrow) for bars below 32 px.
 - DE: Paketladen. Bernstein/Gold-Kachel; weiße Paketkiste (Deckel, cremefarbener Korpus, goldenes Band, Griffschlitz) mit einfallendem Pfeil. Farbe ab 48 px; `-symbolic` (schlichte Kiste, ohne Pfeil) für Leisten unter 32 px.
