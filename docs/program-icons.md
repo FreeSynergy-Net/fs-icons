@@ -16,7 +16,7 @@ Family rules / Familienregeln: 128x128 viewBox, tile 112 px with radius 10 (abou
 
 ## fs-people
 - EN: Contacts. Pink tile; two persons with round heads, angular shoulders and no outline: white man in front with short dark berry-brown hair, pale-pink woman behind with long rose-brown hair. Flat hair shapes, no lines. Symbolic: two persons with round heads; the person behind has a long-hair silhouette.
-- DE: Kontakte. Pinke Kachel; zwei Personen mit runden Köpfen, eckigen Schultern und ohne Kontur: vorne eine weiße Person mit langen dunkel beerenbraunen Haaren und Seitenpony, dahinter eine blassrosa Person mit hellem rosabraunem Dutt. Flache Haarflächen, keine Linien. Symbolic: zwei Personen mit runden Köpfen, ohne Haare.
+- DE: Kontakte. Pinke Kachel; zwei Personen mit runden Köpfen, eckigen Schultern und ohne Kontur: vorne ein weißer Mann mit kurzen dunkel beerenbraunen Haaren, dahinter eine blassrosa Frau mit langen rosabraunen Haaren. Flache Haarflächen, keine Linien. Symbolic: zwei Personen mit runden Köpfen; die Person hinten hat eine Langhaar-Silhouette.
 
 ## fs-calendar
 - EN: Calendar. Red tile; white page with dark-red header, two rings, grey day cells, one marked day. Symbolic: frame with cells.

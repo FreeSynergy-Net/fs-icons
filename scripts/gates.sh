@@ -8,5 +8,5 @@ root="$(cd "$1" && pwd)"
 cd "$root"
 python3 -I -m unittest discover -s tests
 python3 -I scripts/check_sets.py "$root"
-python3 -I scripts/check_svg.py sets
+python3 -I scripts/check_svg.py sets FreeSynergy-apps FreeSynergy-playful
 echo "gates ok: $root at $(git rev-parse --short HEAD 2>/dev/null || echo untracked)"
