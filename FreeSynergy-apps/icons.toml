@@ -18,5 +18,6 @@ purpose = "Programme icon of fs-texts."
 purpose_de = "Programm-Icon von fs-texts."
 used_in = ["fs-texts"]
 sizes = ["scalable"]
-variants = ["symbolic"]
+# "small" = apps/fs-texts-small.svg: simplified drawing for 16 and 24 px (one page, bold strokes on the 16 px grid, same indigo tile, no pencil, no link bar).
+variants = ["symbolic", "small"]
 status = "draft-review"
