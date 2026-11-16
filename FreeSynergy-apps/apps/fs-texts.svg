@@ -1,0 +1,31 @@
+<!-- FreeSynergy program icon: fs-texts. Own drawing, derived from the fs-wiki drawing (same indigo tile; the wiki icon stays as the facet icon). SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="tile" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#4338CA"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0.7" y2="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#tile)"/>
+  <rect x="8" y="8" width="112" height="112" rx="10" fill="url(#gloss)"/>
+  <!-- second page behind (several texts) -->
+  <path d="M44 14h42l24 24v58a3 3 0 0 1-3 3H44a3 3 0 0 1-3-3V17a3 3 0 0 1 3-3z" fill="#C7D2FE"/>
+  <!-- front page with folded corner -->
+  <path d="M26 24h40l24 24v62a3 3 0 0 1-3 3H26a3 3 0 0 1-3-3V27a3 3 0 0 1 3-3z" fill="#FFFFFF"/>
+  <path d="M66 24v21a3 3 0 0 0 3 3h21z" fill="#A5B4FC"/>
+  <!-- heading and text lines -->
+  <rect x="33" y="58" width="36" height="7" rx="1" fill="#4F46E5"/>
+  <rect x="33" y="72" width="48" height="4" rx="1" fill="#C7D2FE"/>
+  <rect x="33" y="82" width="40" height="4" rx="1" fill="#C7D2FE"/>
+  <rect x="33" y="92" width="44" height="4" rx="1" fill="#C7D2FE"/>
+  <!-- wiki accent: a link-marked word -->
+  <rect x="33" y="101" width="26" height="4" rx="1" fill="#FBBF24"/>
+  <!-- pencil -->
+  <path d="M84 98l22-22 8 8-22 22-10 2z" fill="#FBBF24"/>
+  <path d="M106 76l4-4a3 3 0 0 1 4 0l4 4a3 3 0 0 1 0 4l-4 4z" fill="#F43F5E"/>
+  <path d="M74 106l10-2 4 4-2 6z" fill="#FDE68A"/>
+</svg>

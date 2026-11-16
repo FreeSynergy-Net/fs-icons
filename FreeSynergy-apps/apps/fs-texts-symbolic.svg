@@ -1,0 +1,7 @@
+<!-- FreeSynergy program icon (symbolic): fs-texts. Own drawing, derived from the fs-wiki drawing. SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+  <path d="M5.500 1H10l3 3v6.500a.5.5 0 0 1-.5.5H12V4.700L9.300 2H5.500z"/>
+  <path fill-rule="evenodd" d="M2.500 4H7.400L11 7.600V14.500a.5.5 0 0 1-.5.5H2.500a.5.5 0 0 1-.5-.5V4.500A.5.5 0 0 1 2.500 4zM3.500 5.200V13.800H9.700V8.400H7V5.200z"/>
+  <rect x="4.500" y="9.500" width="3.500" height="1"/>
+  <rect x="4.500" y="11.500" width="3.500" height="1"/>
+</svg>

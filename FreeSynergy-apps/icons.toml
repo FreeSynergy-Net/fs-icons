@@ -1,0 +1,22 @@
+# Programme icon set `freesynergy` (apps). Own drawings of the FreeSynergy project, MIT.
+# Only the fs-texts icon is part of this file so far; the other programme icons stay on the draft branch until reviewed.
+[set]
+id = "freesynergy"
+name = "FreeSynergy"
+kind = "icon-set"
+license = "MIT"
+license_files = ["LICENSE-MIT"]
+origin = "Drawn by the FreeSynergy project; nothing traced from another set."
+
+[[icon]]
+name = "fs-texts"
+file = "apps/fs-texts.svg"
+context = "apps"
+naming = "own"
+meaning = "Two stacked pages (several texts) with a folded corner, heading, text lines, a link-marked word and a pencil. Derived from the fs-wiki drawing; fs-wiki stays the facet icon (ADR 0087)."
+purpose = "Programme icon of fs-texts."
+purpose_de = "Programm-Icon von fs-texts."
+used_in = ["fs-texts"]
+sizes = ["scalable"]
+variants = ["symbolic"]
+status = "draft-review"
