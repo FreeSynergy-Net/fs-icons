@@ -2,11 +2,18 @@
 Name=FreeSynergy
 Comment=Line icons on a 24 x 24 grid, drawn by the FreeSynergy project
 Inherits=hicolor
-Directories=scalable/actions,scalable/devices,scalable/mimetypes,scalable/places,scalable/status
+Directories=scalable/actions,scalable/apps,scalable/devices,scalable/mimetypes,scalable/places,scalable/status
 
 [scalable/actions]
 Context=Actions
 Size=24
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/apps]
+Context=Applications
+Size=48
 MinSize=16
 MaxSize=512
 Type=Scalable

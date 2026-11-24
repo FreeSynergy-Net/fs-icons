@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FreeSynergy host icon: PLACEHOLDER (24.11.2026). Own drawing, to be replaced by the real logo. Licence as the repository. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="FreeSynergy">
+  <rect x="16" y="16" width="224" height="224" rx="48" fill="#1f3a5f"/>
+  <!-- three parts that meet: several programs, one base -->
+  <g fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round">
+    <line x1="128" y1="128" x2="128" y2="66"/>
+    <line x1="128" y1="128" x2="74" y2="160"/>
+    <line x1="128" y1="128" x2="182" y2="160"/>
+  </g>
+  <circle cx="128" cy="62" r="22" fill="#6fc3df"/>
+  <circle cx="70" cy="164" r="22" fill="#9ad27a"/>
+  <circle cx="186" cy="164" r="22" fill="#f2b950"/>
+  <circle cx="128" cy="128" r="18" fill="#ffffff"/>
+</svg>

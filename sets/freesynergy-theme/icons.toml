@@ -615,3 +615,18 @@ used_in = ["fs-files"]
 sizes = ["scalable"]
 variants = ["symbolic"]
 status = "draft-colour"
+
+# Programme icons (context apps). naming = "app-id": the name is the reverse-DNS application id, as the freedesktop
+# Desktop Entry and AppStream specifications require for Icon= / <icon type="stock">. Packaging takes these files from
+# here at build time (one source). PLACEHOLDER = neutral own drawing until the project logo exists.
+[[icon]]
+name = "net.freesynergy.Starter"
+file = "scalable/apps/net.freesynergy.Starter.svg"
+context = "apps"
+naming = "app-id"
+meaning = "Three coloured dots joined to one centre on a blue tile: several programs, one base."
+purpose = "Icon of the FreeSynergy Starter (host) in menus, package managers and the software list. PLACEHOLDER until the project logo exists."
+purpose_de = "Symbol des FreeSynergy Starter (Host) in Menüs, Paketverwaltung und Softwareliste. PLATZHALTER, bis das Projektlogo vorliegt."
+used_in = ["fs-starter"]
+sizes = ["scalable"]
+status = "draft-colour"
